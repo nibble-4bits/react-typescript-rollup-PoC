@@ -1,0 +1,1 @@
+import e from"react";function l(l){var r=l.name;return e.createElement("div",null,"Hello ",r,"!")}function r(){return e.createElement("div",{className:"wrapper"},e.createElement("p",null,"Hello world!"),e.createElement(l,{name:"Michael"}))}export{r as default};
